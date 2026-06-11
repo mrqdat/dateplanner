@@ -53,19 +53,15 @@ export const TELEGRAM_CONFIG = {
 
 ## 🚀 Chạy ứng dụng dưới Local
 
-1. Di chuyển vào thư mục frontend:
-   ```bash
-   cd frontend
-   ```
-2. Cài đặt các thư viện cần thiết:
+1. Cài đặt các thư viện cần thiết:
    ```bash
    npm install
    ```
-3. Khởi động môi trường phát triển:
+2. Khởi động môi trường phát triển:
    ```bash
    npm run dev
    ```
-4. Truy cập địa chỉ hiển thị trên màn hình terminal (thường là `http://localhost:5173`) để chạy thử.
+3. Truy cập địa chỉ hiển thị trên màn hình terminal (thường là `http://localhost:5173`) để chạy thử.
 
 ---
 
